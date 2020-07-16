@@ -11,7 +11,7 @@ fullItemList.addEventListener("click", checkOffItem, false);
 }
 /* TODO: Create the event listener that listens for a mouse click and runs the checkOffList function */
 function checkOffItem(clicked) {
-  if (clicked.arget.tagName == "LI") {
+  if (clicked.target.tagName == "LI") {
       clicked.target.classList.toggle("all-done");
   }
 }
