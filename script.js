@@ -1,6 +1,7 @@
 /************************************************/
 /********* ADD CHECKLIST FUNCTIONALITY **********/
 /************************************************/
+var fullItemList = document.getElementById("my-list");
 
 /* TODO: Add a variable to store the "my-list" element */
 
