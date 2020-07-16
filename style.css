@@ -111,7 +111,7 @@ li.nav a:hover {
   align-items: center; /* Align the flex items to the center */
 
   /* Design properties */
-  background-color: #0D38D3;
+  background-color: #ff4d4d;
   padding: 5px;
 
   /* Positioning properties */
@@ -127,7 +127,7 @@ li.nav a:hover {
 /* TODO: Review the CSS properties to the flex item for the heading (the left box) */
 .heading-home {
   padding: 2%;
-  color: #43d6b9ff;
+  color: #43db9ff;
   font-size: 50px;
   letter-spacing: 10px;
   line-height: 60px;
