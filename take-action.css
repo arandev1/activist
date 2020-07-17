@@ -7,6 +7,7 @@
   position: absolute;
   text-transform: uppercase;
   background-color: #0D38D3;
+ 
 
 }
 
@@ -32,6 +33,8 @@
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
+
+  
   align-items: start;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
@@ -59,7 +62,11 @@
   padding: 35px;
   margin: 5%;
   flex-grow: 1;
-  background-color: #0d9c90;
+ background-color: #0d9c90;
+  
+   #grad {
+  background-image: linear-gradient(red, yellow);
+}
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
